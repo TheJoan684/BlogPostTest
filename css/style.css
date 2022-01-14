@@ -2,10 +2,11 @@ body	{
 	font-family: "manjari";
 }
 .post_container{
-	width: 100%;
+	width: 80%;
 	max-width: 800px;
 	margin: 10px auto;
 	border: 1px solid #bbb;
 	text-align: left;
 	color: #003;
+	padding: 10px;
 }

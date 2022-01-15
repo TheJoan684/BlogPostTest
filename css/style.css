@@ -32,3 +32,8 @@ body	{
 #body_post{
 	padding: 10px;
 }
+
+footer{
+	background: indigo;
+	padding: 10px;
+}

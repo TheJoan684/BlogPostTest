@@ -1,0 +1,40 @@
+body	{
+	font-family: "manjari";
+}
+.post_container{
+	width: 80%;
+	max-width: 800px;
+	margin: 10px auto;
+	border: 1px solid #bbb;
+	text-align: left;
+	color: #003;
+}
+.post_container h1{
+	font-size: 1.2rem;
+}
+#Cabecera{
+	box-shadow: 1px 2px 8px #483d8b;
+	font-weight: 800;
+	font-size: 1.9rem;
+	color: #fffe;
+	background: #4b0082;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	padding: 1rem;
+	box-sizing: border-box;
+}
+#Cabecera span{
+	color: #eee;
+	font-size: .9rem;
+	padding: 0px 1%;
+}
+#body_post{
+	padding: 10px;
+}
+
+footer{
+	background: indigo;
+	padding: 10px;
+	background: #9400d3;
+}

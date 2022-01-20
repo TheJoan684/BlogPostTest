@@ -1,2 +1,7 @@
 Hola Esta es la historia de joan Cermeño estamos emepzado a ver como aprendo
 Git Y GitHub desde este pequeño archivo
+
+Como ya teniamos muchos commit sin modificar esta historia, pues ahora vamos a actualizarlo.
+
+
+Este archivo contiene la historia de como va avanzando el proeyecto y como fue la historia de su creacion, jajaja esto es puro arte. ASI QUE DE AQUI EN ADELANTE EMPIEZA LA VERDADERA HISTORIA DEL BLOG POST CON GIT AND GITHUB. :D PResentadas por joan cermeño XD

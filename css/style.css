@@ -1,6 +1,9 @@
 body	{
 	font-family: "manjari";
 	background: #eee;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
 }
 .post_container{
 	width: 80%;
@@ -62,4 +65,7 @@ footer{
 	padding: 5px;
 	color: #fff;
 	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
 }

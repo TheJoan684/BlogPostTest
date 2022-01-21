@@ -38,6 +38,8 @@ body	{
 
 footer{
 	background: #6a5acd;
-	padding: 10px;
-
+	font-size: 1rem;
+	padding: 5px;
+	color: #fff;
+	text-align: center;
 }
